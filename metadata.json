@@ -1,0 +1,6 @@
+{
+  "name": "Jaani Chat",
+  "description": "Caring, fun girlfriend-style AI best friend in Hinglish with real-time chat, voice calling, timepass games, and check-ins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jaani Chat</string>
+    <string name="ai_disclaimer">Jaani is an AI companion created for friendly conversations</string>
+    <string name="notification_channel_name">Jaani Messages &amp; Check-ins</string>
+    <string name="notification_channel_desc">Notifications from your AI companion Jaani</string>
+</resources>

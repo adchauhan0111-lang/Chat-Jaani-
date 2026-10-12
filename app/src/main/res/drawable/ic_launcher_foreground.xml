@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Chat bubble main body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C38.5,26 26,37.2 26,51 C26,58.8 29.8,65.7 36,70.2 L34,81 L45.2,75.4 C48,76.2 50.9,76.6 54,76.6 C69.5,76.6 82,65.4 82,51.6 C82,37.2 69.5,26 54,26 Z" />
+    <!-- Heart in center of bubble -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M54,44.5 C51.5,41.2 46.8,40.8 44.2,43.6 C41.5,46.5 41.8,51 44.5,53.8 L54,63 L63.5,53.8 C66.2,51 66.5,46.5 63.8,43.6 C61.2,40.8 56.5,41.2 54,44.5 Z" />
+    <!-- Audio wave / sparkle accent -->
+    <path
+        android:fillColor="#25D366"
+        android:pathData="M72,34 C74.2,36.2 75.5,39.3 75.5,42.5 C75.5,43.3 74.8,44 74,44 C73.2,44 72.5,43.3 72.5,42.5 C72.5,40.1 71.5,37.8 69.9,36.1 C69.3,35.5 69.3,34.5 69.9,33.9 C70.5,33.3 71.4,33.3 72,34 Z" />
+</vector>
